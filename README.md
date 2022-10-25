@@ -1,1 +1,1 @@
-# repo-1
+Java program to solve the no of restaurants nearby problem using 2-d trees efficiently. A description of the algorithms to build 2-d trees and count elements within a range has been provided in the next section.The input to the program would be present in two files: restaurants3.txt and queries3.txt. restaurants.txt contains restaurant locations – latitude and longitude. queries.txt contains user query locations. The output file output3.txt should contain the number of restaurants which are within (≤) 100 latitude and 100 longitude units of users queries.
